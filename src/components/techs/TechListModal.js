@@ -1,6 +1,5 @@
 //rafcp + tab
 import React, { useEffect, useState } from 'react';
-import PropTypes from 'prop-types';
 import TechItem from './TechItem';
 
 const TechListModal = () => {
